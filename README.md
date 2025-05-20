@@ -1,10 +1,9 @@
 <h1 align="center">Olá! Meu nome é Luís Fernando 👋</h1>
 
 <p align="center">
-  Sou apaixonado por tecnologia desde pequeno. Sempre quis entender como, de fato, um computador funciona, 
-  e estou caminhando para me tornar um desenvolvedor fullstack. Já fiz treinamentos e alguns projetos na área de back-end, 
-  e agora estou iniciando minha caminhada no front-end. Estou ansioso para aprender cada vez mais sobre esse mundo da tecnologia, 
-  pois sei que ainda tenho muito a aprender. 📘💻🧑‍💻
+ Sempre fui o tipo de pessoa que desmontava as coisas pra entender como funcionavam, e com os computadores não foi diferente! Desde pequeno, a tecnologia me fascina.
+Hoje estou seguindo o caminho para me tornar um desenvolvedor fullstack. Já mergulhei no mundo do back-end com cursos e projetos, e agora estou começando minha jornada no front-end.
+Estou super empolgado pra continuar aprendendo, porque sei que esse universo da tecnologia é imenso e sempre tem algo novo pra explorar! 📘💻🧑‍💻
 </p>
 
 ---
