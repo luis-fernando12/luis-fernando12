@@ -33,8 +33,8 @@ Estou super empolgado pra continuar aprendendo, porque sei que esse universo da 
 ### 📊 Estatísticas
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=dark" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernando12&layout=compact&theme=dark" />
+  <img height="150em" ![Luis-Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=tokyonight) />
+  <img height="150em" ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernando12&layout=compact&theme=tokyonight) />
 </div>
 
 ---
