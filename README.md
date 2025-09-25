@@ -11,7 +11,7 @@ Estou super empolgado pra continuar aprendendo, porque sei que esse universo da 
 ### 👨‍💼 Sobre mim
 
 - 🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA  
-- 🧑‍💼 Gerente de Recrutamento e Seleção da TITAN  
+- 🧑‍💼 Desenvolvedor Backend na TITAN 
 - 🚀 Em transição para desenvolvedor fullstack
 
 ---
