@@ -2,7 +2,7 @@
 
 <p align="center">
  Sempre fui o tipo de pessoa que desmontava as coisas pra entender como funcionavam, e com os computadores não foi diferente! Desde pequeno, a tecnologia me fascina.
-Hoje estou seguindo o caminho para me tornar um desenvolvedor fullstack. Já mergulhei no mundo do back-end com cursos e projetos, e agora estou começando minha jornada no front-end.
+Hoje estou seguindo o caminho para me tornar um desenvolvedor. Já mergulhei no mundo do back-end com cursos e projetos.
 Estou super empolgado pra continuar aprendendo, porque sei que esse universo da tecnologia é imenso e sempre tem algo novo pra explorar! 📘💻🧑‍💻
 </p>
 
@@ -12,8 +12,6 @@ Estou super empolgado pra continuar aprendendo, porque sei que esse universo da 
 
 - 🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA  
 - 🧑‍💼 Desenvolvedor Backend na TITAN 
-- 🚀 Em transição para desenvolvedor fullstack
-
 ---
 
 ### 🛠️ Tecnologias que uso
