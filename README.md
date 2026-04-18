@@ -18,14 +18,24 @@
 
 ### 🛠️ Tecnologias que uso
 
-<p align="center">
-  <img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
-  <img height="40" width="50" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
-  <img height="45" width="55" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />&nbsp;&nbsp;
-  <img height="45" width="55" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />&nbsp;&nbsp;
-  <img height="40" width="40" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-</p>
+<table align="center" border="0">
+  <tr>
+    <td align="center"><img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></td>
+    <td align="center"><img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" /></td>
+    <td align="center"><img height="40" width="50" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" /></td>
+    <td align="center"><img height="45" width="55" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" /></td>
+    <td align="center"><img height="45" width="55" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" /></td>
+    <td align="center"><img height="40" width="55" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></td>
+  </tr>
+  <tr>
+    <td align="center">JavaScript</td>
+    <td align="center">TypeScript</td>
+    <td align="center">Node.js</td>
+    <td align="center">NestJS</td>
+    <td align="center">Prisma</td>
+    <td align="center">AWS</td>
+  </tr>
+</table>
 
 ---
 
