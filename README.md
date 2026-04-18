@@ -18,21 +18,14 @@
 
 ### 🛠️ Tecnologias que uso
 
-<div align="center">
-
-  <!-- Linguagens -->
-  <img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-
-  <!-- Backend -->
-  <img height="40" width="50" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="45" width="55" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img height="45" width="55" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
-
-  <!-- Cloud / AWS -->
+<p align="center">
+  <img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />&nbsp;&nbsp;
+  <img height="40" width="50" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />&nbsp;&nbsp;
+  <img height="45" width="55" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />&nbsp;&nbsp;
+  <img height="45" width="55" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />&nbsp;&nbsp;
   <img height="40" width="40" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-
-</div>
+</p>
 
 ---
 
