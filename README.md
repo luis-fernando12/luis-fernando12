@@ -1,40 +1,47 @@
 <h1 align="center">Olá! Meu nome é Luís Fernando 👋</h1>
 
 <p align="center">
- Sempre fui o tipo de pessoa que desmontava as coisas pra entender como funcionavam, e com os computadores não foi diferente! Desde pequeno, a tecnologia me fascina.
-Hoje estou seguindo o caminho para me tornar um desenvolvedor. Já mergulhei no mundo do back-end com cursos e projetos.
-Estou super empolgado pra continuar aprendendo, porque sei que esse universo da tecnologia é imenso e sempre tem algo novo pra explorar! 📘💻🧑‍💻
+  Sempre fui o tipo de pessoa que desmontava as coisas pra entender como funcionavam, e com os computadores não foi diferente!<br/>
+  Desde pequeno, a tecnologia me fascina. Hoje sigo o caminho para me tornar um desenvolvedor backend sólido —<br/>
+  mergulhado em APIs, arquitetura e cloud. Empolgado pra continuar aprendendo, porque esse universo é imenso! 📘💻🧑‍💻
 </p>
 
 ---
 
 ### 👨‍💼 Sobre mim
 
-- 🎓 Graduando do Bacharelado em Ciência e Tecnologia - UFBA  
-- 🧑‍💼 Desenvolvedor Backend na TITAN 
+- 🎓 Graduando em Ciência e Tecnologia — UFBA  
+- 🧑‍💼 Desenvolvedor Backend na **TITAN**
+- ☁️ Explorando o ecossistema AWS e arquiteturas cloud-native
+
 ---
 
 ### 🛠️ Tecnologias que uso
 
-<div style="display: flex; align-items: center; gap: 10px;">
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
-  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+<div align="center">
+
+  <!-- Linguagens -->
+  <img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" />
+
+  <!-- Backend -->
+  <img height="40" width="50" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="45" width="55" title="NestJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" />
+  <img height="45" width="55" title="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg" />
+
+  <!-- Cloud / AWS -->
+  <img height="40" width="40" title="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
 </div>
 
 ---
 
 ### 📊 Estatísticas
 
-<div style="display: flex; gap: 10px;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=tokyonight" alt="Luis-Fernando's GitHub Stats"/>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luis-fernando12&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis-fernando12&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </div>
-
 
 ---
 
